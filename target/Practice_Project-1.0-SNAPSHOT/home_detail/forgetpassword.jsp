@@ -285,7 +285,7 @@
             </div>
             <div class="collapse navbar-collapse" id="example-navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="../index.jsp">首  页</a></li>
+                    <li><a href="index.jsp">首  页</a></li>
                     <li><a href="purchase.jsp">国际采购</a></li>
                     <li><a href="supply.jsp">国际供应</a></li>
                     <li><a href="logistics.jsp">国际物流</a></li>
